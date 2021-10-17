@@ -66,4 +66,4 @@ Crear una aplicación utilizando la tecnología web de **_su elección_** que ay
 
 > NOTA: Cualquier extra que considere, en base a los requisitos funcionales, serán tomados muy en cuenta.
 
-> **[Demo online](https://jorgerodriguez.com.ar/pwa/)**
+> **[Demo online: https://jorgerodriguez.com.ar/pwa/](https://jorgerodriguez.com.ar/pwa/)**
