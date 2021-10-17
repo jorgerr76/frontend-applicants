@@ -64,6 +64,6 @@ Crear una aplicación utilizando la tecnología web de **_su elección_** que ay
    - Despliegue de la misma en un servicio público
    - Que sea una aplicación auto-instalable (PWA)
 
-> NOTA: Cualquier extra que considere, en base a los requisitos funcionales, serán tomados muy en cuenta.
+> NOTA: Despliegue, prueba e instalación de Progressive Web Apps en VueJS a producción de repositorio de Facundo N. Lopez.
 
 > **[Demo online: https://jorgerodriguez.com.ar/pwa/](https://jorgerodriguez.com.ar/pwa/)**
