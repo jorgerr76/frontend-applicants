@@ -14,21 +14,21 @@ Una vez realizada la entrega, coordinaremos un llamado para analizar algunos asp
 
 Haremos especial hincapié en lo siguiente:
 
-  * Creatividad para resolver los requerimientos
-  * Metodología de trabajo
-  * Calidad del código (estructura y buenas prácticas)
-  * Familiaridad con Frameworks y plataformas de desarrollo.
+- Creatividad para resolver los requerimientos
+- Metodología de trabajo
+- Calidad del código (estructura y buenas prácticas)
+- Familiaridad con Frameworks y plataformas de desarrollo.
 
 ## Notas
 
-* Antes de comenzar a programar
+- Antes de comenzar a programar
 
-    - Realizar un `fork` de este repositorio.
-    - Crear un `branch` en su `fork` (a partir de la rama `master` de este repositorio) utilizando su nombre de usuario.
+  - Realizar un `fork` de este repositorio.
+  - Crear un `branch` en su `fork` (a partir de la rama `master` de este repositorio) utilizando su nombre de usuario.
 
-* Al finalizar
+- Al finalizar
 
-    - Crear un `pull-request` a la rama `master` de este repositorio, desde el `branch` con su nombre de usuario.
+  - Crear un `pull-request` a la rama `master` de este repositorio, desde el `branch` con su nombre de usuario.
 
 ## Ejercicio práctico
 
@@ -42,27 +42,28 @@ Crear una aplicación utilizando la tecnología web de **_su elección_** que ay
 
 1. La aplicación debe cumplir con los siguientes **requisitos funcionales:**
 
-    - Incluír un campo de entrada texto, un selector y un botón, para que se pueda capturar el usuario y recuperar la información utilizando las APIs anteriormente indicadas.
+   - Incluír un campo de entrada texto, un selector y un botón, para que se pueda capturar el usuario y recuperar la información utilizando las APIs anteriormente indicadas.
 
-    - Incluir un validador que verifique que el texto de búsqueda de usuarios sea de un mínimo de 4 caracteres, y otro que NO permita realizar la búsqueda de la palabra **"osana-salud"** (sin las comillas).
+   - Incluir un validador que verifique que el texto de búsqueda de usuarios sea de un mínimo de 4 caracteres, y otro que NO permita realizar la búsqueda de la palabra **"osana-salud"** (sin las comillas).
 
-    - Mostrar los primeros 5 usuarios del resultado de la búsqueda (de cada servicio), incluyendo su id, nombre de usuario y el servicio al que corresponde.
+   - Mostrar los primeros 5 usuarios del resultado de la búsqueda (de cada servicio), incluyendo su id, nombre de usuario y el servicio al que corresponde.
 
-    - Convertir cada elemento de la lista anterior en un enlace, para que al hacer clic en cada registro, navegue a una ruta que incluya el nombre del servicio y el nombre de usuario.
+   - Convertir cada elemento de la lista anterior en un enlace, para que al hacer clic en cada registro, navegue a una ruta que incluya el nombre del servicio y el nombre de usuario.
 
-    - Crear un componente independiente en el que se proporcione el nombre del servicio, el nombre de usuario y, a continuación, obtenga los datos de dicho usuario mediante el API correspondiente.
+   - Crear un componente independiente en el que se proporcione el nombre del servicio, el nombre de usuario y, a continuación, obtenga los datos de dicho usuario mediante el API correspondiente.
 
-    - Incluir la imagen del usuario (`'avatar_url'`) y alguna otra información (a su elección) en el componente.
+   - Incluir la imagen del usuario (`'avatar_url'`) y alguna otra información (a su elección) en el componente.
 
-    - Integrar cualquier librería que la parezca conveniente, de ser necesario, y crear un gráfico de barras simple (o el que prefiera) para mostrar el número de seguidores del usuario en caso de que el API proporcione esta posibilidad.
+   - Integrar cualquier librería que la parezca conveniente, de ser necesario, y crear un gráfico de barras simple (o el que prefiera) para mostrar el número de seguidores del usuario en caso de que el API proporcione esta posibilidad.
 
 2. Es deseable, pero no necesario, que la aplicación cumpla con lo siquiente:
 
-    - Interfaz y diseño intuitivo y amigable
-    - Experiencia de usuario (mensajes de error, etc)
-    - Diseño responsivo
-    - Despliegue de la misma en un servicio público
-    - Que sea una aplicación auto-instalable (PWA)
+   - Interfaz y diseño intuitivo y amigable
+   - Experiencia de usuario (mensajes de error, etc)
+   - Diseño responsivo
+   - Despliegue de la misma en un servicio público
+   - Que sea una aplicación auto-instalable (PWA)
 
 > NOTA: Cualquier extra que considere, en base a los requisitos funcionales, serán tomados muy en cuenta.
 
+> **[Demo online](https://jorgerodriguez.com.ar/pwa/)**
